@@ -51,7 +51,7 @@
     <div class="container-fluid mt-5 title-img p-0">
       <div class="">
         <div class="col-12 text-center ">
-          <h1 class="h1 text-white mt-5">La Homepage del Primo Progetto Laravel</h1>
+          <h1 class="h1 text-white mt-5">La Homepage del Primo Progetto</h1>
         </div>
       </div>
     </div>
